@@ -1,0 +1,4 @@
+HUGO_VERSION = "0.58"
+
+[build]
+publish = "public"
